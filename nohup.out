@@ -1,0 +1,194 @@
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "./bombsquad_server", line 136, in run
+    l = sys.stdin.readline()
+IOError: [Errno 9] Bad file descriptor
+
+Requesting shared-playlist 1242...
+Playlist 'Solo Captura la Bandera copia 5' (teams) downloaded; running...
+BombSquad headless 1.4.150 (14369) entering server-mode Thu Mar 26 19:44:16 2020
+UDP port 43210 access check successful. Your server appears to be joinable from the internet.
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "./bombsquad_server", line 137, in run
+    input_commands.append(l.strip())
+MemoryError
+
+Allowing player-request without client's master-server info (build 14369)
+Traceback (most recent call last):
+  File "./bombsquad_server", line 225, in <module>
+    repr(fname) + ')\n').encode('utf-8'))
+IOError: [Errno 32] Broken pipe
+Allowing player-request without client's master-server info (build 14369)
+Ignoring chat message from peer with no client info.
+Allowing player-request without client's master-server info (build 14354)
+Allowing player-request without client's master-server info (build 14369)
+Ignoring chat message from peer with no client info.
+server config updated.
+Allowing player-request without client's master-server info (build 14369)
+Exiting for server-restart at Fri Mar 27 02:31:06 2020
+Requesting shared-playlist 1242...
+Playlist 'Solo Captura la Bandera copia 5' (teams) downloaded; running...
+BombSquad headless 1.4.150 (14369) entering server-mode Fri Mar 27 02:31:11 2020
+UDP port 43210 access check successful. Your server appears to be joinable from the internet.
+Allowing player-request without client's master-server info (build 14369)
+server config updated.
+Exiting for server-restart at Fri Mar 27 13:29:47 2020
+Requesting shared-playlist 1242...
+Playlist 'Solo Captura la Bandera copia 5' (teams) downloaded; running...
+BombSquad headless 1.4.150 (14369) entering server-mode Fri Mar 27 13:29:52 2020
+UDP port 43210 access check successful. Your server appears to be joinable from the internet.
+GOT INVALID UTF8 SEQUENCE: (239,188,159,232,191,153,230,152,175,228,184,170,229,149,165,239,188,159,239,188,129,229,155,167,239,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (239,188,159,232,191,153,230,152,175,228,184,170,229,149,165,239,188,159,239,188,129,229,155,167,239,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (239,188,159,232,191,153,230,152,175,228,184,170,229,149,165,239,188,159,239,188,129,229,155,167,239,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (239,188,159,232,191,153,230,152,175,228,184,170,229,149,165,239,188,159,239,188,129,229,155,167,239,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (239,188,159,232,191,153,230,152,175,228,184,170,229,149,165,239,188,159,239,188,129,229,155,167,239,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (239,188,159,232,191,153,230,152,175,228,184,170,229,149,165,239,188,159,239,188,129,229,155,167,239,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (239,188,159,232,191,153,230,152,175,228,184,170,229,149,165,239,188,159,239,188,129,229,155,167,239,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (239,188,159,232,191,153,230,152,175,228,184,170,229,149,165,239,188,159,239,188,129,229,155,167,239,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (239,188,159,232,191,153,230,152,175,228,184,170,229,149,165,239,188,159,239,188,129,229,155,167,239,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (239,188,159,232,191,153,230,152,175,228,184,170,229,149,165,239,188,159,239,188,129,229,155,167,239,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+SendGamePacket() called before can_communicate set (bombsquad::ConnectionToClientUDP ptype 17)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+server config updated.
+Allowing player-request without client's master-server info (build 14369)
+Exiting for server-restart at Fri Mar 27 19:33:09 2020
+Allowing player-request without client's master-server info (build 14369)
+Requesting shared-playlist 1242...
+Playlist 'Solo Captura la Bandera copia 5' (teams) downloaded; running...
+BombSquad headless 1.4.150 (14369) entering server-mode Fri Mar 27 19:33:14 2020
+UDP port 43210 access check successful. Your server appears to be joinable from the internet.
+SendGamePacket() called before can_communicate set (bombsquad::ConnectionToClientUDP ptype 17)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+server config updated.
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Exiting for server-restart at Sat Mar 28 01:53:53 2020
+Requesting shared-playlist 1242...
+Playlist 'Solo Captura la Bandera copia 5' (teams) downloaded; running...
+BombSquad headless 1.4.150 (14369) entering server-mode Sat Mar 28 01:53:57 2020
+UDP port 43210 access check successful. Your server appears to be joinable from the internet.
+Allowing player-request without client's master-server info (build 14365)
+Allowing player-request without client's master-server info (build 14369)
+GOT INVALID UTF8 SEQUENCE: (240,159,152,142,240,159,152,142,240,159,152,142,240,159,164,163,240,159,164,163,240,159,164,163,240,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (240,159,152,142,240,159,152,142,240,159,152,142,240,159,164,163,240,159,164,163,240,159,164,163,240,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+Allowing player-request without client's master-server info (build 14369)
+Ignoring chat message from peer with no client info.
+Allowing player-request without client's master-server info (build 14369)
+Ignoring chat message from peer with no client info.
+Ignoring chat message from peer with no client info.
+server config updated.
+Exiting for server-restart at Sat Mar 28 08:14:13 2020
+Requesting shared-playlist 1242...
+Playlist 'Solo Captura la Bandera copia 5' (teams) downloaded; running...
+BombSquad headless 1.4.150 (14369) entering server-mode Sat Mar 28 08:14:16 2020
+UDP port 43210 access check successful. Your server appears to be joinable from the internet.
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+server config updated.
+Exiting for server-restart at Sat Mar 28 15:16:11 2020
+Requesting shared-playlist 1242...
+Playlist 'Solo Captura la Bandera copia 5' (teams) downloaded; running...
+BombSquad headless 1.4.150 (14369) entering server-mode Sat Mar 28 15:16:15 2020
+UDP port 43210 access check successful. Your server appears to be joinable from the internet.
+Allowing player-request without client's master-server info (build 14369)
+GOT INVALID UTF8 SEQUENCE: (232,191,153,229,165,189,229,131,143,230,152,175,229,157,151,230,179,161,230,179,161,231,179,150,240,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (232,191,153,229,165,189,229,131,143,230,152,175,229,157,151,230,179,161,230,179,161,231,179,150,240,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (232,191,153,229,165,189,229,131,143,230,152,175,229,157,151,230,179,161,230,179,161,231,179,150,240,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (232,191,153,229,165,189,229,131,143,230,152,175,229,157,151,230,179,161,230,179,161,231,179,150,240,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (232,191,153,229,165,189,229,131,143,230,152,175,229,157,151,230,179,161,230,179,161,231,179,150,240,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (232,191,153,229,165,189,229,131,143,230,152,175,229,157,151,230,179,161,230,179,161,231,179,150,240,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (232,191,153,229,165,189,229,131,143,230,152,175,229,157,151,230,179,161,230,179,161,231,179,150,240,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (232,191,153,229,165,189,229,131,143,230,152,175,229,157,151,230,179,161,230,179,161,231,179,150,240,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+GOT INVALID UTF8 SEQUENCE: (232,191,153,229,165,189,229,131,143,230,152,175,229,157,151,230,179,161,230,179,161,231,179,150,240,46,46,46); RETURNING '...'; LOC 'bsgdps1'
+Allowing player-request without client's master-server info (build 14344)
+server config updated.
+Exiting for server-restart at Sat Mar 28 21:43:57 2020
+Requesting shared-playlist 1242...
+Playlist 'Solo Captura la Bandera copia 5' (teams) downloaded; running...
+BombSquad headless 1.4.150 (14369) entering server-mode Sat Mar 28 21:44:02 2020
+UDP port 43210 access check successful. Your server appears to be joinable from the internet.
+Allowing player-request without client's master-server info (build 14369)
+ERROR: exception in Python call:
+   root call: <unavailable>
+   context: <empty context>
+   real-time: 8606440
+   game-time: <unavailable>
+Traceback (most recent call last):
+  File "<string>", line 107, in _serverGet
+  File "/usr/lib/python2.7/threading.py", line 736, in start
+    _start_new_thread(self.__bootstrap, ())
+thread.error: can't start new thread
+ERROR: exception in Python call:
+   root call: <unavailable>
+   context: <empty context>
+   real-time: 8609928
+   game-time: <unavailable>
+Traceback (most recent call last):
+  File "<string>", line 107, in _serverGet
+  File "/usr/lib/python2.7/threading.py", line 736, in start
+    _start_new_thread(self.__bootstrap, ())
+thread.error: can't start new thread
+Allowing player-request without client's master-server info (build 14369)
+ERROR: exception in Python call:
+   root call: <bound method _AC._tick of <__main__._AC object at 0x7f473ee9e550>>
+   root call origin: <string>:74
+   context: <UI Context>
+   real-time: 8633241
+   game-time: <unavailable>
+Traceback (most recent call last):
+  File "<string>", line 478, in _tick
+  File "<string>", line 115, in _serverPut
+  File "/usr/lib/python2.7/threading.py", line 736, in start
+    _start_new_thread(self.__bootstrap, ())
+thread.error: can't start new thread
+SendGamePacket() called before can_communicate set (bombsquad::ConnectionToClientUDP ptype 17)
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "./bombsquad_server", line 137, in run
+    input_commands.append(l.strip())
+MemoryError
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "./bombsquad_server", line 136, in run
+    l = sys.stdin.readline()
+IOError: [Errno 9] Bad file descriptor
+
+Requesting shared-playlist 1242...
+Playlist 'Solo Captura la Bandera copia 5' (teams) downloaded; running...
+BombSquad headless 1.4.150 (14369) entering server-mode Sun Mar 29 01:15:12 2020
+UDP port 43210 access check successful. Your server appears to be joinable from the internet.
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "./bombsquad_server", line 137, in run
+    input_commands.append(l.strip())
+MemoryError
+
