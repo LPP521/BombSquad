@@ -5,9 +5,9 @@
 
 config['partyName'] = 'PtCu的无情铁手'
 config['sessionType'] = 'teams'
-config['maxPartySize'] = 13
+config['maxPartySize'] = 9
 config['port'] = 43210
-config['playlistCode'] = 242736
+config['playlistCode'] = 242855
 config['language']='Chinese'
 config['enableTelnet'] = True
-config['Team Game Max Players'] = 10
+config['Team Game Max Players'] = 8

@@ -6,9 +6,7 @@ Traceback (most recent call last):
     l = sys.stdin.readline()
 IOError: [Errno 9] Bad file descriptor
 
-Requesting shared-playlist 242712...
+Requesting shared-playlist 242855...
 Playlist 'server' (teams) downloaded; running...
-BombSquad headless 1.4.150 (14369) entering server-mode Sun Mar 29 22:27:48 2020
+BombSquad headless 1.4.150 (14369) entering server-mode Mon Mar 30 19:30:08 2020
 UDP port 43210 access check successful. Your server appears to be joinable from the internet.
-Allowing player-request without client's master-server info (build 14354)
-Allowing player-request without client's master-server info (build 14369)
