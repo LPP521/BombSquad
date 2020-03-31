@@ -6,7 +6,3552 @@ Traceback (most recent call last):
     l = sys.stdin.readline()
 IOError: [Errno 9] Bad file descriptor
 
-Requesting shared-playlist 242855...
+Requesting shared-playlist 242872...
 Playlist 'server' (teams) downloaded; running...
-BombSquad headless 1.4.150 (14369) entering server-mode Mon Mar 30 19:30:08 2020
+BombSquad headless 1.4.150 (14369) entering server-mode Mon Mar 30 22:29:32 2020
 UDP port 43210 access check successful. Your server appears to be joinable from the internet.
+Requesting shared-playlist 242872...
+Playlist 'server' (teams) downloaded; running...
+BombSquad headless 1.4.150 (14369) entering server-mode Mon Mar 30 22:32:35 2020
+UDP port 43210 access check successful. Your server appears to be joinable from the internet.
+PTHON GC FOUND 1 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+PTHON GC FOUND 1 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+PTHON GC FOUND 1 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+PTHON GC FOUND 1 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+3
+spaz 0
+3
+spaz 0
+3
+spaz 1
+
+
+3
+spaz 1
+PTHON GC FOUND 1 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+PTHON GC FOUND 1 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+PTHON GC FOUND 5 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+PTHON GC FOUND 5 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+PTHON GC FOUND 5 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+PTHON GC FOUND 5 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+PTHON GC FOUND 8 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+PTHON GC FOUND 8 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+ERROR: error setting analytics screen
+   root call: <bound method TeamsSession._beginNextActivity of <bs.TeamsSession object at 0x7f710f397bd0>>
+   root call origin: /opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py:1316
+   context: <QBElimination.QuantumBombElimination object at 0x7f710eb0d790>
+   real-time: 2461547
+   game-time: 0
+Traceback for bs.printException() call (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 980, in _beginNextActivity
+    self._activityWeak()._begin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 1715, in _begin
+    self.onBegin()
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/QBElimination.py", line 250, in onBegin
+    bs.TeamGameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsTeamGame.py", line 1053, in onBegin
+    bs.GameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2368, in onBegin
+    bs.printException("error setting analytics screen")
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsUtils.py", line 179, in printException
+    traceback.print_stack()
+Traceback (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2341, in onBegin
+    bsInternal._setAnalyticsScreen('Teams Game: '+self.getName())
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)
+PTHON GC FOUND 8 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+PTHON GC FOUND 8 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+PTHON GC FOUND 8 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+PTHON GC FOUND 8 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+PTHON GC FOUND 9 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+PTHON GC FOUND 9 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+PTHON GC FOUND 9 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+PTHON GC FOUND 9 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+3
+spaz 0
+3
+spaz 0
+3
+spaz 1
+3
+spaz 1
+3
+spaz 2
+
+PTHON GC FOUND 9 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+ERROR: error setting analytics screen
+   root call: <bound method TeamsSession._beginNextActivity of <bs.TeamsSession object at 0x7f710f397bd0>>
+   root call origin: /opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py:1316
+   context: <QBElimination.QuantumBombElimination object at 0x7f70fb13af50>
+   real-time: 6382606
+   game-time: 0
+Traceback for bs.printException() call (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 980, in _beginNextActivity
+    self._activityWeak()._begin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 1715, in _begin
+    self.onBegin()
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/QBElimination.py", line 250, in onBegin
+    bs.TeamGameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsTeamGame.py", line 1053, in onBegin
+    bs.GameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2368, in onBegin
+    bs.printException("error setting analytics screen")
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsUtils.py", line 179, in printException
+    traceback.print_stack()
+Traceback (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2341, in onBegin
+    bsInternal._setAnalyticsScreen('Teams Game: '+self.getName())
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+Allowing player-request without client's master-server info (build 14365)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+ERROR: error setting analytics screen
+   root call: <bound method TeamsSession._beginNextActivity of <bs.TeamsSession object at 0x7f710f397bd0>>
+   root call origin: /opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py:1316
+   context: <QBElimination.QuantumBombElimination object at 0x7f70fb0f6790>
+   real-time: 6968249
+   game-time: 0
+Traceback for bs.printException() call (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 980, in _beginNextActivity
+    self._activityWeak()._begin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 1715, in _begin
+    self.onBegin()
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/QBElimination.py", line 250, in onBegin
+    bs.TeamGameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsTeamGame.py", line 1053, in onBegin
+    bs.GameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2368, in onBegin
+    bs.printException("error setting analytics screen")
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsUtils.py", line 179, in printException
+    traceback.print_stack()
+Traceback (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2341, in onBegin
+    bsInternal._setAnalyticsScreen('Teams Game: '+self.getName())
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+Allowing player-request without client's master-server info (build 14350)
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+Allowing player-request without client's master-server info (build 14366)
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 10 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+PTHON GC FOUND 11 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+PTHON GC FOUND 11 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+PTHON GC FOUND 11 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+Allowing player-request without client's master-server info (build 14369)
+PTHON GC FOUND 11 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+PTHON GC FOUND 12 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+Allowing player-request without client's master-server info (build 14369)
+PTHON GC FOUND 12 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+PTHON GC FOUND 12 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+PTHON GC FOUND 12 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+3
+spaz 0
+Allowing player-request without client's master-server info (build 14369)
+
+PTHON GC FOUND 12 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+PTHON GC FOUND 13 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+Allowing player-request without client's master-server info (build 14353)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14351)
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+PTHON GC FOUND 13 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+PTHON GC FOUND 13 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+PTHON GC FOUND 13 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+Allowing player-request without client's master-server info (build 14369)
+PTHON GC FOUND 13 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+ERROR: error setting analytics screen
+   root call: <bound method TeamsSession._beginNextActivity of <bs.TeamsSession object at 0x7f710f397bd0>>
+   root call origin: /opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py:1316
+   context: <QBElimination.QuantumBombElimination object at 0x7f70fb100310>
+   real-time: 12871977
+   game-time: 0
+Traceback for bs.printException() call (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 980, in _beginNextActivity
+    self._activityWeak()._begin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 1715, in _begin
+    self.onBegin()
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/QBElimination.py", line 250, in onBegin
+    bs.TeamGameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsTeamGame.py", line 1053, in onBegin
+    bs.GameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2368, in onBegin
+    bs.printException("error setting analytics screen")
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsUtils.py", line 179, in printException
+    traceback.print_stack()
+Traceback (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2341, in onBegin
+    bsInternal._setAnalyticsScreen('Teams Game: '+self.getName())
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)
+/mnt/hgfs/ericf/.jenkins/workspace/bombsquad.pushallservers_1.4/src/bombsquad/python/class/python_class_player.cc:149: error: calling getAttr for player attr 'actor' without data set.
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+SendGamePacket() called before can_communicate set (bombsquad::ConnectionToClientUDP ptype 17)
+PTHON GC FOUND 16 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+PTHON GC FOUND 16 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+PTHON GC FOUND 16 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+PTHON GC FOUND 16 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+PTHON GC FOUND 16 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+PTHON GC FOUND 16 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+PTHON GC FOUND 19 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+PTHON GC FOUND 19 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+Allowing player-request without client's master-server info (build 14369)
+PTHON GC FOUND 19 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+PTHON GC FOUND 19 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+Allowing player-request without client's master-server info (build 14369)
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+Allowing player-request without client's master-server info (build 14369)
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+3
+spaz 0
+
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+PTHON GC FOUND 20 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+PTHON GC FOUND 21 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+PTHON GC FOUND 21 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+
+3
+spaz 0
+3
+spaz 0
+3
+spaz 0
+
+PTHON GC FOUND 21 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+PTHON GC FOUND 21 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+PTHON GC FOUND 21 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+PTHON GC FOUND 21 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+PTHON GC FOUND 21 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+PTHON GC FOUND 21 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+PTHON GC FOUND 21 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+PTHON GC FOUND 21 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+ERROR: error setting analytics screen
+   root call: <bound method TeamsSession._beginNextActivity of <bs.TeamsSession object at 0x7f710f397bd0>>
+   root call origin: /opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py:1316
+   context: <QBElimination.QuantumBombElimination object at 0x7f710e894710>
+   real-time: 18559618
+   game-time: 0
+Traceback for bs.printException() call (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 980, in _beginNextActivity
+    self._activityWeak()._begin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 1715, in _begin
+    self.onBegin()
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/QBElimination.py", line 250, in onBegin
+    bs.TeamGameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsTeamGame.py", line 1053, in onBegin
+    bs.GameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2368, in onBegin
+    bs.printException("error setting analytics screen")
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsUtils.py", line 179, in printException
+    traceback.print_stack()
+Traceback (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2341, in onBegin
+    bsInternal._setAnalyticsScreen('Teams Game: '+self.getName())
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)
+PTHON GC FOUND 22 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+PTHON GC FOUND 22 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+PTHON GC FOUND 23 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+PTHON GC FOUND 23 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+PTHON GC FOUND 26 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+PTHON GC FOUND 26 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+PTHON GC FOUND 28 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+PTHON GC FOUND 28 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+PTHON GC FOUND 28 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+PTHON GC FOUND 28 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+Allowing player-request without client's master-server info (build 14353)
+Allowing player-request without client's master-server info (build 14369)
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+server config updated.
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+
+
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+Exiting for server-restart at Tue Mar 31 05:24:10 2020
+PTHON GC FOUND 29 UNCOLLECTABLE OBJECTS:
+0: <bs.PlayerSpaz object at 0x7f710e9b1450>
+1: <bs.PlayerSpaz object at 0x7f710eb0d2d0>
+2: <bs.PlayerSpaz object at 0x7f710e965c90>
+3: <bs.PlayerSpaz object at 0x7f710eb06f90>
+4: <bs.PlayerSpaz object at 0x7f710e9ac950>
+5: <bs.PlayerSpaz object at 0x7f710e9a8ed0>
+6: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e965bd0>
+7: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710e9aebd0>
+8: <bs.PlayerSpaz object at 0x7f70fb0e9c10>
+9: <kill_boss.friendPlayer object at 0x7f70fb13af10>
+10: <bs.PlayerSpaz object at 0x7f70fb0f6550>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb100ad0>
+12: <kill_boss.friendPlayer object at 0x7f710e85a390>
+13: <bs.PlayerSpaz object at 0x7f70fb100750>
+14: <bigger_bomb.dropBiggerBombSpaz object at 0x7f710c781390>
+15: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70fb0e9210>
+16: <bs.PlayerSpaz object at 0x7f710f13c790>
+17: <bs.PlayerSpaz object at 0x7f710f13cf90>
+18: <bs.PlayerSpaz object at 0x7f710f11ed90>
+19: <bs.PlayerSpaz object at 0x7f70fb100390>
+20: <bs.PlayerSpaz object at 0x7f70fb0e97d0>
+21: <bs.PlayerSpaz object at 0x7f70fb0708d0>
+22: <smash.PlayerSpaz_Smash object at 0x7f710f13c950>
+23: <bs.PlayerSpaz object at 0x7f70fb0709d0>
+24: <bs.PlayerSpaz object at 0x7f70fb070ed0>
+25: <bs.PlayerSpaz object at 0x7f710e892c10>
+26: <bs.PlayerSpaz object at 0x7f710c7810d0>
+27: <bs.PlayerSpaz object at 0x7f710e892910>
+28: <bs.PlayerSpaz object at 0x7f70fb070050>
+Requesting shared-playlist 242872...
+Playlist 'server' (teams) downloaded; running...
+BombSquad headless 1.4.150 (14369) entering server-mode Tue Mar 31 05:24:14 2020
+UDP port 43210 access check successful. Your server appears to be joinable from the internet.
+ERROR: error setting analytics screen
+   root call: <bound method TeamsSession._beginNextActivity of <bs.TeamsSession object at 0x7f701a6b0bd0>>
+   root call origin: /opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py:1316
+   context: <QBElimination.QuantumBombElimination object at 0x7f7019b59fd0>
+   real-time: 4473888
+   game-time: 0
+Traceback for bs.printException() call (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 980, in _beginNextActivity
+    self._activityWeak()._begin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 1715, in _begin
+    self.onBegin()
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/QBElimination.py", line 250, in onBegin
+    bs.TeamGameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsTeamGame.py", line 1053, in onBegin
+    bs.GameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2368, in onBegin
+    bs.printException("error setting analytics screen")
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsUtils.py", line 179, in printException
+    traceback.print_stack()
+Traceback (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2341, in onBegin
+    bsInternal._setAnalyticsScreen('Teams Game: '+self.getName())
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)
+PTHON GC FOUND 1 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+PTHON GC FOUND 1 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+PTHON GC FOUND 1 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+PTHON GC FOUND 1 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+PTHON GC FOUND 1 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+PTHON GC FOUND 1 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+3
+spaz 0
+
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+PTHON GC FOUND 2 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+PTHON GC FOUND 4 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+PTHON GC FOUND 4 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+PTHON GC FOUND 5 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+Allowing player-request without client's master-server info (build 14328)
+PTHON GC FOUND 5 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+Allowing player-request without client's master-server info (build 14369)
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+ERROR: error setting analytics screen
+   root call: <bound method TeamsSession._beginNextActivity of <bs.TeamsSession object at 0x7f701a6b0bd0>>
+   root call origin: /opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py:1316
+   context: <QBElimination.QuantumBombElimination object at 0x7f70180dc990>
+   real-time: 13632203
+   game-time: 0
+Traceback for bs.printException() call (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 980, in _beginNextActivity
+    self._activityWeak()._begin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 1715, in _begin
+    self.onBegin()
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/QBElimination.py", line 250, in onBegin
+    bs.TeamGameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsTeamGame.py", line 1053, in onBegin
+    bs.GameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2368, in onBegin
+    bs.printException("error setting analytics screen")
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsUtils.py", line 179, in printException
+    traceback.print_stack()
+Traceback (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2341, in onBegin
+    bsInternal._setAnalyticsScreen('Teams Game: '+self.getName())
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+Allowing player-request without client's master-server info (build 14328)
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+PTHON GC FOUND 6 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+PTHON GC FOUND 7 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+PTHON GC FOUND 7 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+PTHON GC FOUND 8 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+PTHON GC FOUND 8 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+PTHON GC FOUND 9 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+PTHON GC FOUND 9 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+PTHON GC FOUND 9 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+PTHON GC FOUND 9 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+PTHON GC FOUND 9 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+PTHON GC FOUND 9 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+PTHON GC FOUND 12 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+PTHON GC FOUND 12 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+3
+spaz 0
+3
+spaz 0
+3
+spaz 0
+PTHON GC FOUND 12 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+PTHON GC FOUND 12 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+PTHON GC FOUND 12 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+PTHON GC FOUND 12 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+PTHON GC FOUND 13 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+PTHON GC FOUND 13 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+ERROR: error setting analytics screen
+   root call: <bound method TeamsSession._beginNextActivity of <bs.TeamsSession object at 0x7f701a6b0bd0>>
+   root call origin: /opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py:1316
+   context: <QBElimination.QuantumBombElimination object at 0x7f701a65a2d0>
+   real-time: 15590625
+   game-time: 0
+Traceback for bs.printException() call (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 980, in _beginNextActivity
+    self._activityWeak()._begin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 1715, in _begin
+    self.onBegin()
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/QBElimination.py", line 250, in onBegin
+    bs.TeamGameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsTeamGame.py", line 1053, in onBegin
+    bs.GameActivity.onBegin(self)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2368, in onBegin
+    bs.printException("error setting analytics screen")
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsUtils.py", line 179, in printException
+    traceback.print_stack()
+Traceback (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsGame.py", line 2341, in onBegin
+    bsInternal._setAnalyticsScreen('Teams Game: '+self.getName())
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)
+PTHON GC FOUND 13 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+PTHON GC FOUND 13 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+ERROR: exception in Python call:
+   root call: <bs.WeakCall object; _call=<bs.WeakMethod object; call=<function calcBust at 0x7f7019bd3cd0>> _args=((13.888400077819824, -4.0563249588012695, -13.769883155822754),) _keywds={}>
+   root call origin: /opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/SnoBallz.py:66
+   context: <SnowBallFight.SnowBallFightGame object at 0x7f7019cd2f90>
+   real-time: 15783687
+   game-time: 33896
+Traceback (most recent call last):
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsUtils.py", line 510, in __call__
+    return self._call(*self._args + argsExtra, **self._keywds)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/bsUtils.py", line 557, in __call__
+    return self.f(*((c,)+args), **keywds)
+  File "/opt/BombSquad/BombSquad/bscfg/mods/sys/1.4.150/SnoBallz.py", line 146, in calcBust
+    dot = sum(x*y for x,y in zip(oVel,self.node.velocity))
+AttributeError: 'bs.Node' object has no attribute 'velocity'
+PTHON GC FOUND 13 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+PTHON GC FOUND 13 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+PTHON GC FOUND 13 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+PTHON GC FOUND 13 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+Allowing player-request without client's master-server info (build 14369)
+Allowing player-request without client's master-server info (build 14369)
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+PTHON GC FOUND 14 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+PTHON GC FOUND 16 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+PTHON GC FOUND 16 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+PTHON GC FOUND 16 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+PTHON GC FOUND 16 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+PTHON GC FOUND 17 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+16: <smash.PlayerSpaz_Smash object at 0x7f70180dc690>
+PTHON GC FOUND 17 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+16: <smash.PlayerSpaz_Smash object at 0x7f70180dc690>
+PTHON GC FOUND 19 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+16: <smash.PlayerSpaz_Smash object at 0x7f70180dc690>
+17: <bs.PlayerSpaz object at 0x7f70180ccf10>
+18: <bs.PlayerSpaz object at 0x7f70180cc690>
+PTHON GC FOUND 19 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+16: <smash.PlayerSpaz_Smash object at 0x7f70180dc690>
+17: <bs.PlayerSpaz object at 0x7f70180ccf10>
+18: <bs.PlayerSpaz object at 0x7f70180cc690>
+3
+spaz 0
+
+PTHON GC FOUND 19 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+16: <smash.PlayerSpaz_Smash object at 0x7f70180dc690>
+17: <bs.PlayerSpaz object at 0x7f70180ccf10>
+18: <bs.PlayerSpaz object at 0x7f70180cc690>
+PTHON GC FOUND 19 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+16: <smash.PlayerSpaz_Smash object at 0x7f70180dc690>
+17: <bs.PlayerSpaz object at 0x7f70180ccf10>
+18: <bs.PlayerSpaz object at 0x7f70180cc690>
+PTHON GC FOUND 19 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+16: <smash.PlayerSpaz_Smash object at 0x7f70180dc690>
+17: <bs.PlayerSpaz object at 0x7f70180ccf10>
+18: <bs.PlayerSpaz object at 0x7f70180cc690>
+PTHON GC FOUND 19 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+16: <smash.PlayerSpaz_Smash object at 0x7f70180dc690>
+17: <bs.PlayerSpaz object at 0x7f70180ccf10>
+18: <bs.PlayerSpaz object at 0x7f70180cc690>
+ERROR: spaz heldCount < 0
+ERROR: spaz heldCount < 0
+ERROR: spaz heldCount < 0
+PTHON GC FOUND 19 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+16: <smash.PlayerSpaz_Smash object at 0x7f70180dc690>
+17: <bs.PlayerSpaz object at 0x7f70180ccf10>
+18: <bs.PlayerSpaz object at 0x7f70180cc690>
+PTHON GC FOUND 19 UNCOLLECTABLE OBJECTS:
+0: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c75510>
+1: <bs.PlayerSpaz object at 0x7f7019c71fd0>
+2: <bs.PlayerSpaz object at 0x7f70180cc850>
+3: <bs.PlayerSpaz object at 0x7f7018065f90>
+4: <bs.PlayerSpaz object at 0x7f70180cce50>
+5: <bs.PlayerSpaz object at 0x7f70180d10d0>
+6: <bs.PlayerSpaz object at 0x7f701811d8d0>
+7: <bs.PlayerSpaz object at 0x7f70180b1750>
+8: <smash.PlayerSpaz_Smash object at 0x7f70180dced0>
+9: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c65650>
+10: <bigger_bomb.dropBiggerBombSpaz object at 0x7f7019c80fd0>
+11: <bigger_bomb.dropBiggerBombSpaz object at 0x7f70180cc3d0>
+12: <bs.PlayerSpaz object at 0x7f7018065090>
+13: <bigger_bomb.dropBiggerBombSpaz object at 0x7f701811d5d0>
+14: <bs.PlayerSpaz object at 0x7f7019c6db90>
+15: <bs.PlayerSpaz object at 0x7f70180b1690>
+16: <smash.PlayerSpaz_Smash object at 0x7f70180dc690>
+17: <bs.PlayerSpaz object at 0x7f70180ccf10>
+18: <bs.PlayerSpaz object at 0x7f70180cc690>

@@ -128,13 +128,14 @@
  "Auto Balance Teams": true, 
  "Campaigns": {}, 
  "Default Player Profiles": {
+  "Client Input Device #1": "FHH", 
   "Client Input Device #10": "__account__", 
-  "Client Input Device #2": "__account__", 
-  "Client Input Device #3": "\u8d85\u80fd\u529b\u7684HBB", 
-  "Client Input Device #4": "__account__", 
+  "Client Input Device #2": "\u5201\u6c11\u5b57\u60a3\u77e5", 
+  "Client Input Device #3": "\u5ddd\u626c\u70df\ud83d\udc27", 
+  "Client Input Device #4": "\u9cb2\u59d0\u59d0\uff5e", 
+  "Client Input Device #5": "__account__", 
   "Client Input Device #6": "__account__", 
-  "Client Input Device #7": "\u4e00\u62f3\u8d85\u4eba", 
-  "Client Input Device #8": "__account__", 
+  "Client Input Device #7": "__account__", 
   "Client Input Device #9": "RickC-137"
  }, 
  "Enable Telnet": true, 
@@ -448,7 +449,7 @@
      "Epic Mode": true, 
      "Lives": 3, 
      "Respawn Times": 1.0, 
-     "Time Limit": 300, 
+     "Time Limit": 120, 
      "map": "Doom Shroom"
     }, 
     "type": "kill_boss.BossKillGame"
@@ -457,11 +458,78 @@
     "settings": {
      "Epic Mode": 1, 
      "Respawn Times": 1.0, 
+     "Time Limit": 120, 
+     "map": "The Pad", 
+     "\u573a\u4e0a\u7684\u57fa\u4f6c\u6570": 4, 
+     "\u83b7\u80dc\u6240\u9700\u8981\u7684\u51fb\u6740\u6570": 15
+    }, 
+    "type": "offline_wrestle.OfflineWrestleGame"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": true, 
+     "Respawn Times": 1.0, 
      "Score to Win": 3, 
      "Time Limit": 120, 
      "map": "Bridgit"
     }, 
     "type": "bsAssault.AssaultGame"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": false, 
+     "Kills to Win Per Player": 5, 
+     "Respawn Times": 1.0, 
+     "Time Limit": 120, 
+     "map": "The Pad", 
+     "\u96ea\u7403\u7834\u788e": true, 
+     "\u96ea\u7403\u878d\u5316": true, 
+     "\u96ea\u7403\u901f\u5ea6": 300
+    }, 
+    "type": "SnowBallFight.SnowBallFightGame"
+   }, 
+   {
+    "settings": {
+     "Bomb Spawning": 2000, 
+     "Entire Team Must Finish": false, 
+     "Epic Mode": false, 
+     "Laps": 3, 
+     "Mine Spawning": 4000, 
+     "Time Limit": 120, 
+     "map": "Big G"
+    }, 
+    "type": "bsRace.RaceGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": true, 
+     "Lives Per Player": 3, 
+     "Respawn Times": 1.0, 
+     "Solo Mode": false, 
+     "Time Limit": 120, 
+     "map": "Happy Thoughts"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": true, 
+     "Respawn Times": 1.0, 
+     "Time Limit": 120, 
+     "map": "Happy Thoughts"
+    }, 
+    "type": "bsConquest.ConquestGame"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": false, 
+     "Kills to Win Per Player": 5, 
+     "Respawn Times": 1.0, 
+     "Time Limit": 120, 
+     "map": "Step Right Up"
+    }, 
+    "type": "bsDeathMatch.DeathMatchGame"
    }, 
    {
     "settings": {
@@ -491,30 +559,11 @@
    {
     "settings": {
      "Epic Mode": true, 
-     "Respawn Times": 1.0, 
-     "Time Limit": 300, 
-     "map": "Zigzag", 
-     "\u573a\u4e0a\u7684\u57fa\u4f6c\u6570": 4, 
-     "\u83b7\u80dc\u6240\u9700\u8981\u7684\u51fb\u6740\u6570": 15
-    }, 
-    "type": "offline_wrestle.OfflineWrestleGame"
-   }, 
-   {
-    "settings": {
-     "Epic Mode": true, 
      "Lives (0 = Unlimited)": 3, 
-     "Time Limit": 300, 
+     "Time Limit": 120, 
      "map": "Step Right Up"
     }, 
     "type": "smash.SuperSmash"
-   }, 
-   {
-    "settings": {
-     "Epic Mode": true, 
-     "map": "Football Stadium", 
-     "\u6700\u5927\u5730\u96f7\u6570": 140
-    }, 
-    "type": "ultra_snake.SnakeGame"
    }, 
    {
     "settings": {
@@ -546,29 +595,8 @@
    }, 
    {
     "settings": {
-     "Epic Mode": true, 
-     "map": "Rampage", 
-     "\u5141\u8bb8\u4e22\u96ea\u7403": true, 
-     "\u5141\u8bb8\u5236\u4f5c\u62a4\u76fe": true, 
-     "\u6e38\u620f\u65f6\u957f(\u79d2)": 30, 
-     "\u73a9\u5bb6HP": 1.0, 
-     "\u96ea\u7403\u751f\u6210\u901f\u7387": 700
-    }, 
-    "type": "catch_snowball.CatchSnowballGame"
-   }, 
-   {
-    "settings": {
-     "Respawn Times": 1.0, 
-     "Time Limit": 60, 
-     "map": "Roundabout", 
-     "\u80dc\u5229\u6240\u9700\u8981\u7684\u51fb\u6740\u6570": 5
-    }, 
-    "type": "double_player.DoublePlayerGame"
-   }, 
-   {
-    "settings": {
      "All Sticky Bombs": true, 
-     "Balance Total Lives": false, 
+     "Balance Total Lives": true, 
      "Epic Mode": true, 
      "Frozen bombs": true, 
      "Impact bombs": true, 
@@ -591,7 +619,7 @@
  }, 
  "Telnet Password": "changeme", 
  "Telnet Port": 43250, 
- "launchCount": 45, 
+ "launchCount": 49, 
  "lc14": 1, 
  "lc14146": 1, 
  "lc14173": 1, 

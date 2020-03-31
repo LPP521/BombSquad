@@ -138,6 +138,7 @@ class InputThread(threading.Thread):
 
 
 t = InputThread()
+#设置为守护线程
 t.daemon = True  # don't let this thread's existence prevent us from dying
 t.start()
 
@@ -145,7 +146,7 @@ restart_server = True
 
 # the server-binary will get relaunched after this amount of time
 # (combats memory leaks or other cruft that has built up)
-restart_minutes = 360
+restart_minutes = 240
 
 # a bit of environment cleanup
 del __builtins__.exit
