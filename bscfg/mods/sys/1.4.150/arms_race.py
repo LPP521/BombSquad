@@ -1,4 +1,3 @@
-# coding=utf-8
 import bs
 import bsUtils
 import random
@@ -36,18 +35,18 @@ class State:
 
 class ArmsRace(bs.TeamGameActivity):
 	states = [
-		State(bomb='normal', name='普通炸弹'),
-		State(bomb='ice', name='冰冻炸弹'),
-		State(bomb='sticky', name='粘性炸弹'),
-		State(bomb='impact', name='触碰炸弹'),
-		State(grab=True, name='抓'),
-		State(punch=True, name='拳'),
-		State(curse=True, name='自爆', final=True)
+		State(bomb='normal', name='Basic Bombs'),
+		State(bomb='ice', name='Frozen Bombs'),
+		State(bomb='sticky', name='Sticky Bombs'),
+		State(bomb='impact', name='Impact Bombs'),
+		State(grab=True, name='Grabbing only'),
+		State(punch=True, name='Punching only'),
+		State(curse=True, name='Cursed', final=True)
 	]
 
 	@classmethod
 	def getName(cls):
-		return '武器升级战'
+		return 'Arms Race'
 
 	@classmethod
 	def getScoreInfo(cls):
@@ -57,10 +56,10 @@ class ArmsRace(bs.TeamGameActivity):
 
 	@classmethod
 	def getDescription(cls, sessionType):
-		return "杀死敌人以升级武器.\n第一个通过自爆杀人的\n玩家将会获得最终胜利."
+		return "Upgrade your weapon by eliminating enemies.\nWin the match by being the first player\nto get a kill while cursed."
 
 	def getInstanceDescription(self):
-		return '杀死敌人以升级武器.'
+		return 'Upgrade your weapon by eliminating enemies.'
 
 	def getInstanceScoreBoardDescription(self):
 		return 'Kill {} Players to win'.format(len(self.states))

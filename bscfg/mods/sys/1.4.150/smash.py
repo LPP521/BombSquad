@@ -1,4 +1,3 @@
-# coding=utf-8
 import random
 import bs
 import bsUtils
@@ -300,7 +299,7 @@ class SuperSmash(bs.TeamGameActivity):
 
 	@classmethod
 	def getName(cls):
-		return '大乱斗'
+		return 'Super Smash'
 
 	@classmethod
 	def getScoreInfo(cls):
@@ -322,20 +321,20 @@ class SuperSmash(bs.TeamGameActivity):
 
 	@classmethod
 	def getDescription(cls, sessionType):
-		return "冻死，自爆，或者掉出地图。\n也可以被怼墙角，轮揍，然后时间结束."
+		return "Kill everyone with your knockback."
 
 
 	def getInstanceDescription(self):
-		return '把所有敌人打出地图.'
+		return 'Knock everyone off the map.'
 
 	def getInstanceScoreBoardDescription(self):
 		if self.timeLimitOnly:
-			return '把所有敌人打出地图.'
+			return 'Knock everyone off the map.'
 		else:
 			if self.settings['Lives'] > 1:
-				return ('把所有敌人打出地图，每人 ${ARG1} 条命\n遇见刷中途加入的玩家请联名举报给47服管理！！\n论如何用冰冻和诅咒地图内杀死敌人\n( ･᷄д･᷅ )别把敌人揍到1250%以上，他死了你可能也不太能活下来.', self.settings['Lives'])
+				return ('Knock the others off ${ARG1} times.', self.settings['Lives'])
 			else:
-				return '把所有敌人打出地图.'
+				return 'Knock everyone off once.'
 
 
 	@classmethod

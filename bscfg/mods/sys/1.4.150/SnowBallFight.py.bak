@@ -1,3 +1,4 @@
+# coding=utf-8
 import bs
 import bsVector
 import bsSpaz
@@ -28,11 +29,11 @@ class SnowBallFightGame(bs.TeamGameActivity):
 
     @classmethod
     def getName(cls):
-        return 'Snowball Fight'
+        return '雪球大战'
 
     @classmethod
     def getDescription(cls,sessionType):
-        return 'Kill a set number of enemies to win.'
+        return '杀死足够数量的敌人以胜利.'
 
     @classmethod
     def supportsSessionType(cls,sessionType):
@@ -50,9 +51,9 @@ class SnowBallFightGame(bs.TeamGameActivity):
                                               ('2 Minutes',120),('5 Minutes',300),
                                               ('10 Minutes',600),('20 Minutes',1200)],'default':0}),
                     ("Respawn Times",{'choices':[('Shorter',0.25),('Short',0.5),('Normal',1.0),('Long',2.0),('Longer',4.0)],'default':1.0}),
-                    ("Snowball Rate",{'choices':[('Slowest',500),('Slow',400),('Normal',300),('Fast',200),('Lag City',100)],'default':300}),
-                    ("Snowballs Melt",{'default':True}),
-                    ("Snowballs Bust",{'default':True}),
+                    ("雪球速度",{'choices':[('Slowest',500),('Slow',400),('Normal',300),('Fast',200),('Lag City',100)],'default':300}),
+                    ("雪球融化",{'default':True}),
+                    ("雪球破碎",{'default':True}),
                     ("Epic Mode",{'default':False})]
         
         # In teams mode, a suicide gives a point to the other team, but in free-for-all it
@@ -75,15 +76,15 @@ class SnowBallFightGame(bs.TeamGameActivity):
         
         #Initiate the SnoBall factory
         self.snoFact = SnoBallz.snoBall().getFactory()
-        self.snoFact.defaultBallTimeout = self.settings['Snowball Rate']
-        self.snoFact._ballsMelt = self.settings['Snowballs Melt']
-        self.snoFact._ballsBust = self.settings['Snowballs Bust']
+        self.snoFact.defaultBallTimeout = self.settings['雪球速度']
+        self.snoFact._ballsMelt = self.settings['雪球融化']
+        self.snoFact._ballsBust = self.settings['雪球破碎']
         self.snoFact._powerExpire = False
     def getInstanceDescription(self):
         return ('Crush ${ARG1} of your enemies.',self._scoreToWin)
 
     def getInstanceScoreBoardDescription(self):
-        return ('kill ${ARG1} enemies',self._scoreToWin)
+        return ('杀死 ${ARG1} 个敌人',self._scoreToWin)
 
     def onTransitionIn(self):
         bs.TeamGameActivity.onTransitionIn(self, music='Epic' if self.settings['Epic Mode'] else 'ToTheDeath')
