@@ -79,11 +79,11 @@ class BombOnMyHead(bs.TeamGameActivity):
 
 	@classmethod
 	def getDescription(cls, sessionType):
-		return "You'll always have a bomb on your head. \n Survive as long as you can!"
+		return "你的头上一直会有炸弹. \n 尽可能活得更久!"
 
 
 	def getInstanceDescription(self):
-		return 'Survive as long as you can'
+		return '活下去！'
 
 	@classmethod
 	def supportsSessionType(cls, sessionType):

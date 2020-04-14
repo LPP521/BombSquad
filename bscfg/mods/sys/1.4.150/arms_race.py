@@ -56,7 +56,7 @@ class ArmsRace(bs.TeamGameActivity):
 
 	@classmethod
 	def getDescription(cls, sessionType):
-		return "Upgrade your weapon by eliminating enemies.\nWin the match by being the first player\nto get a kill while cursed."
+		return "消灭敌人以升级武器.\n第一个以用诅咒杀死敌人的玩家获胜."
 
 	def getInstanceDescription(self):
 		return 'Upgrade your weapon by eliminating enemies.'

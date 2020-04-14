@@ -25,7 +25,7 @@ class BrainFreezeGame(bs.TeamGameActivity):
     
     @classmethod
     def getDescription(cls,sessionType):
-        return 'Dodge the falling ice bombs.'
+        return '躲避掉下来的冰弹.'
 
     # we're currently hard-coded for one map..
     @classmethod

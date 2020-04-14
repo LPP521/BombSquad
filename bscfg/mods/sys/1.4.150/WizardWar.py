@@ -113,7 +113,7 @@ class WizardWar(bs.TeamGameActivity):
 
     @classmethod
     def getDescription(cls, sessionType):
-        return "Punch to summon magic orbs\nLast mage standing wins"
+        return "你现在是魔法师了！\n按出拳键发射火球\n来斗法吧！"
 
     @classmethod
     def getScoreInfo(cls):

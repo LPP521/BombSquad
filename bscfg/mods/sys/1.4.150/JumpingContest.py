@@ -103,7 +103,7 @@ class JumpingContest(bs.TeamGameActivity):
 
     @classmethod
     def getDescription(cls, sessionType):
-        return "Jump as high as you can."
+        return "去吧，蹦到天上去."
 
     @classmethod
     def getScoreInfo(cls):

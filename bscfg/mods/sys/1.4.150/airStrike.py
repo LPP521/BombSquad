@@ -30,7 +30,7 @@ class AirStrikeGame(bs.TeamGameActivity):
 
 	@classmethod
 	def getDescription(cls,sessionType):
-		return 'Enemies are coming from air! Kill them all!'
+		return '天下掉下敌人了!Kill them!'
 
 	@classmethod
 	def getSupportedMaps(cls,sessionType):

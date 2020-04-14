@@ -120,7 +120,7 @@ class GravityFalls(bs.TeamGameActivity):
     
     @classmethod
     def getDescription(cls,sessionType):
-        return 'Last remaining alive wins.'
+        return '真就往下掉呗.'
 
     @classmethod
     def supportsSessionType(cls,sessionType):

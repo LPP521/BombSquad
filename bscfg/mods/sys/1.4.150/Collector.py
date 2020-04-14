@@ -45,8 +45,8 @@ class CollectorGame(bs.TeamGameActivity):
 
     @classmethod
     def getDescription(cls,sessionType):
-        return ('Kill your opponents to steal their Capsules.\n'
-               'Collect them and score at the Deposit point!')
+        return ('击杀你的对手以获得胶囊.\n'
+               '记得把胶囊回收！')
 
     def onBegin(self):
         bs.TeamGameActivity.onBegin(self)

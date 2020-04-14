@@ -96,7 +96,7 @@ class PuckDeathMatch(bs.TeamGameActivity):
 
 	@classmethod
 	def getDescription(cls, sessionType):
-		return 'Kill everyone with your Puck'
+		return '用冰球击杀敌人！'
 
 	@classmethod
 	def getSupportedMaps(cls, sessionType):

@@ -369,7 +369,7 @@ class SurviveCurseGame(bs.TeamGameActivity):
     
     @classmethod
     def getDescription(cls,sessionType):
-        return 'Last remaining alive wins.'
+        return '在诅咒中活下去吧.'
 
     @classmethod
     def supportsSessionType(cls,sessionType):

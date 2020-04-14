@@ -32,7 +32,7 @@ class SnowBallFightGame(bs.TeamGameActivity):
 
     @classmethod
     def getDescription(cls,sessionType):
-        return 'Kill a set number of enemies to win.'
+        return '扔雪球！砸他们！.'
 
     @classmethod
     def supportsSessionType(cls,sessionType):

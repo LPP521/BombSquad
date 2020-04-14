@@ -26,7 +26,7 @@ class GuessTheBombGame(bs.TeamGameActivity):
 
     @classmethod
     def getDescription(cls,sessionType):
-        return 'Dodge the falling bombs.'
+        return '下炸弹了！快跑！.'
 
     @classmethod
     def getSupportedMaps(cls,sessionType):

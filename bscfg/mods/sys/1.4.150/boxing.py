@@ -14,9 +14,9 @@ class DeathMatchGame(bs.TeamGameActivity):
 
     @classmethod
     def getDescription(cls,sessionType):
-        return ('No bombs!\n'
-				'Knock out your enemies using your bare hands!\n'
-				'Powerups not included.')
+        return ('无炸弹!无道具！\n'
+				'肉搏吧!'
+				)
 
     @classmethod
     def supportsSessionType(cls,sessionType):

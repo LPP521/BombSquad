@@ -115,7 +115,7 @@ class HazardousCargo(bs.TeamGameActivity):
     
     @classmethod
     def getDescription(cls,sessionType):
-        return 'Go get a TNT box and return to the end zone.'
+        return 'Go get a TNT box and return to the end zone\n一条不归路.'
 
     @classmethod
     def getSupportedMaps(cls,sessionType):

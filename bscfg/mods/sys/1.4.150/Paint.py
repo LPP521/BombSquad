@@ -111,7 +111,7 @@ class Paint(bs.CoopGameActivity):
 
     @classmethod
     def getDescription(cls,sessionType):
-        return 'Create a masterpiece.'
+        return '随便画画'
     
     @classmethod
     def getSupportedMaps(cls,sessionType):

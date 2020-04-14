@@ -151,7 +151,7 @@ class ProtectionGame(bs.TeamGameActivity):
     
     @classmethod
     def getDescription(cls,sessionType):
-        return 'Protect your twin.'
+        return '保护你那孪生兄弟'
 
     @classmethod
     def supportsSessionType(cls,sessionType):
